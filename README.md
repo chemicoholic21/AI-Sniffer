@@ -48,5 +48,5 @@ Final output: **Real-time integrity status**
 
 ### Clone repo
 ```bash
-git clone https://your-repository-url.git
-cd your-repository-directory
+git clone https://github.com/chemicoholic21/AI-Sniffer.git
+cd AI-Sniffer
