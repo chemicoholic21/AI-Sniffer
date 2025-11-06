@@ -1,0 +1,6 @@
+streamlit
+numpy
+sounddevice
+librosa
+google-generativeai
+python-dotenv

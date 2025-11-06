@@ -1,0 +1,44 @@
+# --- python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- virtualenvs ---
+.venv/
+venv/
+env/
+
+# --- env + secrets ---
+.env
+*.env
+secrets.json
+credentials.json
+
+# --- streamlit/cache ---
+.streamlit/
+**/.streamlit/
+**/__pycache__/
+.streamlit_cache/
+.streamlit_log/
+
+# --- packaging ---
+build/
+dist/
+*.egg-info/
+
+# --- editor / ide ---
+.vscode/
+.idea/
+*.sublime-workspace
+*.code-workspace
+
+# --- os artifacts ---
+.DS_Store
+Thumbs.db
+
+# --- logs ---
+*.log
+logs/
+
+# --- jupyter ---
+.ipynb_checkpoints/
